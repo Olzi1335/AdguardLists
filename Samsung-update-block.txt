@@ -1,0 +1,21 @@
+!
+! Title: No Samsung Update
+! Description: none
+! Last modified: 2025-09-06T17:01:47
+!
+! Compiled by Olzi1335
+!
+||fota-cloud-dn.ospserver.net^
+||cloud-nebula-dn.ospserver.net^
+||secsmartcdn.com^
+||samsungdm.com^
+||samsungads.com^
+||metrics.samsung.com^
+||config.samsung.com^
+||samsungosp.com^
+||sso.samsung.com^
+||dcms.samsung.com^
+||samsungrs.com^
+||samsungcloudsolution.net^
+||samsungotn.net^
+||samsungtips.com^
