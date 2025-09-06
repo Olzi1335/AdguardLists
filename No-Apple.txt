@@ -1,0 +1,13 @@
+!
+! Title: No Apple
+! Description: none
+! Last modified: 2025-09-06T17:07:47.219Z
+!
+! Compiled by Olzi1335
+!
+||apple.com^
+||icloud.com^
+||applepay.com^
+||appstore.com^
+||apple-dns.net^
+||anykey.ch^
