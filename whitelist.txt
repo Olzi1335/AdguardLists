@@ -1,0 +1,10 @@
+!
+! Title: White list
+! Description: none
+! Last modified: 2025-09-18T12:21
+!
+! Compiled by Olzi1335
+!
+||2ip.io^
+||galaxus.com^
+||galaxus.ch^
