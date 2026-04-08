@@ -10,3 +10,4 @@
 ||galaxus.ch^
 ||yummy-anime.ru^
 ||nuget.org^
+||digicert.com^
