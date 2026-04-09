@@ -1,7 +1,7 @@
 !
 ! Title: No Apple
 ! Description: none
-! Last modified: 2025-09-06T16:38:23
+! Last modified: 2026-04-09T22:35
 !
 ! Compiled by Olzi1335
 !
@@ -11,3 +11,4 @@
 ||appstore.com^
 ||apple-dns.net^
 ||anykey.ch^
+||fastly-edge.com^
