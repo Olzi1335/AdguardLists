@@ -1,7 +1,7 @@
 !
 ! Title: White list
 ! Description: none
-! Last modified: 2026-04-10T20:15
+! Last modified: 2026-04-11T14:18
 !
 ! Compiled by Olzi1335
 !
@@ -12,3 +12,4 @@
 ||nuget.org^
 ||digicert.com^
 ||jb.gg^
+||orca-slicer.com^
