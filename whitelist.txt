@@ -12,4 +12,3 @@
 ||nuget.org^
 ||digicert.com^
 ||jb.gg^
-||orca-slicer.com^
