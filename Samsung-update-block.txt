@@ -1,21 +1,29 @@
-!
-! Title: No Samsung Update
-! Description: none
-! Last modified: 2025-09-06T17:01:47
-!
-! Compiled by Olzi1335
-!
-||fota-cloud-dn.ospserver.net^
-||cloud-nebula-dn.ospserver.net^
+||aibixby.com^
+! ||apps.samsung.com^
+! ||config.samsung.com^
+! ||dcms.samsung.com^
+||ospserver.net^
+||internetat.tv^
+! ||metrics.samsung.com^
+||sbixby.com^
 ||secsmartcdn.com^
-||samsungdm.com^
+||semiconductor.samsung.com^
+! ||sso.samsung.com^
+||samsung.com^
+||samsungacr.com^
+||samsungadhub.com^
 ||samsungads.com^
-||metrics.samsung.com^
-||config.samsung.com^
-||samsungosp.com^
-||sso.samsung.com^
-||dcms.samsung.com^
-||samsungrs.com^
+||samsungapps.com^
+||samsungcloud.com^
+||samsungcloudsolution.com^
 ||samsungcloudsolution.net^
+||samsungdm.com^
+||samsungknox.com^
+||samsungmdec.com^
+||samsungosp.com^
 ||samsungotn.net^
+||samsungpositioning.com^
+||samsungqbe.com^
+||samsungrm.net^
+||samsungrs.com^
 ||samsungtips.com^
