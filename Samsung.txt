@@ -17,6 +17,8 @@
 ||samsungcloud.com^
 ||samsungcloudsolution.com^
 ||samsungcloudsolution.net^
+||samsungcloudplatform.com^
+||samsungcloudplatform.net^
 ||samsungdm.com^
 ||samsungknox.com^
 ||samsungmdec.com^
